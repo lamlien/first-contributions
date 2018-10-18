@@ -25,7 +25,7 @@ Hal tersebut akan membuat salinan repositori ini di akun anda.
 
 <img align="right" width="300" src="../assets/clone.png" alt="clone this repository" />
 
-Sekarang klon repositori ini ke komputer anda. Tekan tombol clone lalu tekan ikon "copy to clipboard".
+Sekarang klon repositori ini ke komputer anda. Tekan tombol "Clone" lalu tekan ikon "copy to clipboard".
 
 Buka terminal dan eksekusi perintah git berikut:
 
